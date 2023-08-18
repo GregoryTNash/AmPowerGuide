@@ -16,7 +16,7 @@ c-model for pace (https://github.com/GregoryTNash/BikeSimulation)
 3. add surface
 
 ## Phase 3:
-Solver for pace strategy
+Solver for pace strategy also solved by (https://github.com/GregoryTNash/BikeSimulation)
 
 ## Phase 4:
 IQ field
