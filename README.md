@@ -6,11 +6,11 @@ CSV to workout
 1. Export test csv (done)
 2. decode (done)
 3. Export pace plan (done)
-4. Make new csv
-5. encode
+4. Make new csv (done)
+5. encode (done)
 
 ## Phase 2:
-c-model for pace
+c-model for pace (https://github.com/GregoryTNash/BikeSimulation)
 1. Just elevation
 2. add wind
 3. add surface
