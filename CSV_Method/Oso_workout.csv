@@ -1,0 +1,32 @@
+﻿Type,Local Number,Message,Field 1,Value 1,Units 1,Field 2,Value 2,Units 2,Field 3,Value 3,Units 3,Field 4,Value 4,Units 4,Field 5,Value 5,Units 5,Field 6,Value 6,Units 6,Field 7,Value 7,Units 7,Field 8,Value 8,Units 8,Field 9,Value 9,Units 9,Field 10,Value 10,Units 10,Field 11,Value 11,Units 11,Field 12,Value 12,Units 12,Field 13,Value 13,Units 13,Field 14,Value 14,Units 14,Field 15,Value 15,Units 15,Field 16,Value 16,Units 16,Field 17,Value 17,Units 17,Field 18,Value 18,Units 18,Field 19,Value 19,Units 19,Field 20,Value 20,Units 20,
+Definition,0,file_id,serial_number,1,,time_created,1,,unknown,1,,manufacturer,1,,product,1,,number,1,,type,1,,
+Data,0,file_id,serial_number,"725963342",,time_created,"1061254844",,manufacturer,"1",,garmin_product,"65534",,type,"5",,,,,,,,
+Definition,0,file_creator,unknown,20,,software_version,1,,hardware_version,1,,,,,,,,,,,,,,
+Data,0,file_creator,software_version,"0",,hardware_version,"0",,,,,,,,,,,,,,,,,
+Definition,0,workout,capabilities,1,,unknown,1,,num_valid_steps,1,,unknown,1,,unknown,1,,pool_length,1,,sport,1,,wkt_name,50,,unknown,1,,sub_sport,1,,unknown,1,,pool_length_unit,1,,
+Data,0,workout,capabilities,"32",,num_valid_steps,"8",,sport,"2",,wkt_name,"Oso|||| ||||||||||Hit lap when finished wi",,,,,,,,,,,,,,,,,,,,,,,,,,
+Definition,0,workout_step,wkt_step_name,16,,duration_value,1,,target_value,1,,custom_target_value_low,1,,custom_target_value_high,1,,notes,200,,message_index,1,,exercise_category,1,,exercise_name,1,,exercise_weight,1,,weight_display_unit,1,,unknown,1,,duration_type,1,,target_type,1,,intensity,1,,equipment,1,,unknown,1,,unknown,1,,unknown,1,,unknown,1,,
+Data,0,workout_step,duration_time,"300.0",,target_value,"0",,custom_target_value_low,"1129",,custom_target_value_high,"1169",,notes,"Pedal smoothly for 5 minutes as you warm-up|||,|||
+||i||||||||||||Pedal smoothly for 5 minutes as you warm-up|||
+||||||||||||Hit lap when ready for the main set. ",,message_index,"0",,duration_type,"0",,target_type,"10",,intensity,"2",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,target_value,"0",,custom_target_value_low,"1001",,custom_target_value_high,"1154",,notes,"Hit lap when ready for the main set. |||||||||,|||
+||i||||||||||||Pedal smoothly for 5 minutes as you warm-up|||
+||||||||||||Hit lap when ready for the main set. ",,message_index,"1",,duration_type,"5",,target_type,"10",,intensity,"2",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_time,"960.0",,target_value,"0",,custom_target_value_low,"1193",,custom_target_value_high,"1213",,notes,"16 minutes of Endurance.||||||||||||||||||||||,|||
+||i||||||||||||Pedal smoothly for 5 minutes as you warm-up|||
+||||||||||||Hit lap when ready for the main set. ",,message_index,"2",,duration_type,"0",,target_type,"10",,intensity,"0",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_time,"960.0",,target_value,"0",,custom_target_value_low,"1159",,custom_target_value_high,"1179",,notes,"16 minutes of Endurance.||||||||||||||||||||||,|||
+||i||||||||||||Pedal smoothly for 5 minutes as you warm-up|||
+||||||||||||Hit lap when ready for the main set. ",,message_index,"3",,duration_type,"0",,target_type,"10",,intensity,"0",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_step,"2",,repeat_steps,"2",,notes,"||||||||||||||||||||||||||||||||||||||||||||||,|||
+||i||||||||||||Pedal smoothly for 5 minutes as you warm-up|||
+||||||||||||Hit lap when ready for the main set. ",,message_index,"4",,duration_type,"6",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_time,"960.0",,target_value,"0",,custom_target_value_low,"1193",,custom_target_value_high,"1213",,notes,"16 minutes of Endurance.||||||||||||||||||||||,|||
+||i||||||||||||Pedal smoothly for 5 minutes as you warm-up|||
+||||||||||||Hit lap when ready for the main set. ",,message_index,"5",,duration_type,"0",,target_type,"10",,intensity,"0",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,duration_time,"300.0",,target_value,"0",,custom_target_value_low,"1001",,custom_target_value_high,"1154",,notes,"Ride easy for 5 minutes. |||||||||||||||||||||,|||
+||i||||||||||||Pedal smoothly for 5 minutes as you warm-up|||
+||||||||||||Hit lap when ready for the main set. ",,message_index,"6",,duration_type,"0",,target_type,"10",,intensity,"3",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data,0,workout_step,target_value,"0",,custom_target_value_low,"1001",,custom_target_value_high,"1154",,notes,"Hit lap when finished with the workout. ||||||,|||
+||i||||||||||||Pedal smoothly for 5 minutes as you warm-up|||
+||||||||||||Hit lap when ready for the main set. ",,message_index,"7",,duration_type,"5",,target_type,"10",,intensity,"3",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
