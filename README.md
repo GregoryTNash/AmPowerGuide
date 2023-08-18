@@ -3,9 +3,9 @@ Tools for pacing on Garmin pre xx40
 
 ## Phase 1:
 CSV to workout
-1. Export test csv
-2. decode
-3. Export pace plan
+1. Export test csv (done)
+2. decode (done)
+3. Export pace plan (done)
 4. Make new csv
 5. encode
 
